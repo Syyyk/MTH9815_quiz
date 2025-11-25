@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/myapp.dir/code/main.cpp.o CMakeFiles/myapp.dir/code/sort.cpp.o -o myapp 

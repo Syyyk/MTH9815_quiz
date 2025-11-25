@@ -1,0 +1,3 @@
+/home/yikai/HW9815/quiz/build/CMakeFiles/myapp.dir
+/home/yikai/HW9815/quiz/build/CMakeFiles/edit_cache.dir
+/home/yikai/HW9815/quiz/build/CMakeFiles/rebuild_cache.dir
